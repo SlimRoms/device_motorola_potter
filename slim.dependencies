@@ -1,0 +1,27 @@
+[
+  {
+    "repository": "SlimRoms/kernel_motorola_msm8953",
+    "target_path": "kernel/motorola/msm8953",
+    "branch":      "ng7.1"
+  },
+  {
+    "repository": "SlimRoms/packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch":      "ng7.1"
+  },
+  {
+    "repository": "TheLoonyBin/proprietary_vendor_motorola",
+    "target_path": "vendor/motorola",
+    "branch":      "ng7.1"
+  },
+  {
+    "repository": "SlimRoms/android_external_bson",
+    "target_path": "external/bson",
+    "branch":      "ng7.1"
+  },
+  {
+    "repository": "SlimRoms/android_external_stlport",
+    "target_path": "external/stlport",
+    "branch":      "ng7.1"
+  }
+]

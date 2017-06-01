@@ -10,11 +10,6 @@
     "branch":      "ng7.1"
   },
   {
-    "repository": "TheLoonyBin/proprietary_vendor_motorola",
-    "target_path": "vendor/motorola",
-    "branch":      "ng7.1"
-  },
-  {
     "repository": "SlimRoms/android_external_bson",
     "target_path": "external/bson",
     "branch":      "ng7.1"
